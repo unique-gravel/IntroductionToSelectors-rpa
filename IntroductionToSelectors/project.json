@@ -1,5 +1,6 @@
 {
   "name": "IntroductionToSelectors",
+  "projectId": "afeda5ae-f8cf-4040-8a0e-85342cbbdf45",
   "description": "This is the introductioon to different type of selectors in UiPath Studio",
   "main": "Main.xaml",
   "dependencies": {
@@ -43,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
